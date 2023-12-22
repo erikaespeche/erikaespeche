@@ -1,4 +1,4 @@
-<h1 align="center">Hola, Soy Erika Espeche 👋!</h1>
+<h1 align="center">Hola, Soy Erika Espeche 👋 y tengo 27 años. La tecnología, el diseño y el desarrollo web son mis pasiones. Soy experto en diseño y desarrollo web. Además, soy una persona creativa y hago mis propios productos artísticos.</h1>
 <h3 align="center">Una apasionada Frontend Developer</h3>
 
 - 📫 How to reach me **especherika96@gmail.com**
