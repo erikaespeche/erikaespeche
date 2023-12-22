@@ -1,7 +1,10 @@
 <h1 align="center">Hola, Soy Erika Espeche 👋 y tengo 27 años. La tecnología, el diseño y el desarrollo web son mis pasiones. Soy experto en diseño y desarrollo web. Además, soy una persona creativa y hago mis propios productos artísticos.</h1>
 <h3 align="center">Una apasionada Frontend Developer</h3>
+- 📚 Mis habilidades principales son HTML, CSS, BOOTSTRAP, JAVASCRIPT, JAVA, PYTHON, MYSQL**
 
-- 📫 How to reach me **especherika96@gmail.com**
+- 👨‍💻 Todos mis proyectos están disponibles en  [https://erikaespeche.github.io/Portafolio/](https://erikaespeche.github.io/Portafolio/)
+
+- 📫 Cómo contactarme **especherika96@gmail.com**
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
